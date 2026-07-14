@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software or controlled evaluation, please cite this repository."
+title: "OpenCycle-Mem: Reversible Evidence Convergence and Governed Memory for Long-Horizon Agents"
+version: 0.3.0
+date-released: 2026-07-14
+authors:
+  - family-names: Zhou
+    given-names: Livan
+    email: zhoulivan@gmail.com
+repository-code: "https://github.com/haveanicedaymydear/OpenCycle-Mem"
+license: MIT
