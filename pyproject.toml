@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "opencycle-mem"
+version = "0.3.0"
+description = "Reversible evidence convergence and governed memory for long-horizon agents"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [{name = "Livan Zhou", email = "zhoulivan@gmail.com"}]
+dependencies = []
+
+[tool.setuptools]
+py-modules = ["opencycle_mem_v03"]
